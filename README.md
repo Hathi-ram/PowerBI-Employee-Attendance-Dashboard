@@ -1,6 +1,6 @@
 # Power BI Employee Attendance Dashboard
 
-![Uploading Screenshot 2026-03-03 231618.png…]()
+<img width="2880" height="1800" alt="Screenshot 2026-03-03 231618" src="https://github.com/user-attachments/assets/e4f952c4-1926-4fb6-b13f-e2e2a5d61993" />
 
 
 ## Project Overview
