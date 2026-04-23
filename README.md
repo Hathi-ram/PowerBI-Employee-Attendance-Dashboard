@@ -26,7 +26,7 @@ This project presents an interactive Employee Attendance Dashboard built using P
 ## Key Insights
 The dashboard helps identify attendance trends across different teams and managers, making it easier to understand workforce engagement and attendance performance.
 
-## Learning Outcome
+### Learning Outcome
 Through this project, I learned how to:
 - Create interactive dashboards in Power BI
 - Use data visualization to present insights
